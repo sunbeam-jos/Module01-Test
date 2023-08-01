@@ -1,18 +1,8 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
 h1 {
   color: red;
-}
-
-p {
-  color: rgb(51, 107, 212);
-  font-size: 20px;
-}
-
-li {
-  color: blueviolet;
-  font-style: italic;
-}
-
-q {
-  color: green;
-  background-color: gold;
+  font-weight: 900;
 }
