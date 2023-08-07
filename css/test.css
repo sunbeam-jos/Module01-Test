@@ -53,7 +53,8 @@ h1,h2,h3 {
 
 .results {
   display: flex;
-  gap: 10px;
+  gap: 1%;
+  justify-content: space-between;
 }
 
 section {
